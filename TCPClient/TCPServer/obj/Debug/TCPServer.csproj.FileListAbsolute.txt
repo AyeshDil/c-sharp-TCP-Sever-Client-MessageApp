@@ -1,0 +1,15 @@
+Z:\self\c sharp\TCPClient\TCPServer\bin\Debug\TCPServer.exe.config
+Z:\self\c sharp\TCPClient\TCPServer\bin\Debug\TCPServer.exe
+Z:\self\c sharp\TCPClient\TCPServer\bin\Debug\TCPServer.pdb
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.exe
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.pdb
+Z:\self\c sharp\TCPClient\TCPServer\bin\Debug\MaterialSkin.dll
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+Z:\self\c sharp\TCPClient\TCPServer\bin\Debug\SimpleTcp.dll
+Z:\self\c sharp\TCPClient\TCPServer\bin\Debug\SimpleTcp.xml
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+Z:\self\c sharp\TCPClient\TCPServer\obj\Debug\TCPServer.Form1.resources

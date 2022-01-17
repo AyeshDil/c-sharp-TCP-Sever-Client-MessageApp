@@ -1,0 +1,15 @@
+Z:\self\c sharp\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+Z:\self\c sharp\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+Z:\self\c sharp\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.SuggestedBindingRedirects.cache
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+Z:\self\c sharp\TCPClient\TCPClient\bin\Debug\MaterialSkin.dll
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+Z:\self\c sharp\TCPClient\TCPClient\bin\Debug\SimpleTcp.dll
+Z:\self\c sharp\TCPClient\TCPClient\bin\Debug\SimpleTcp.xml
+Z:\self\c sharp\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
