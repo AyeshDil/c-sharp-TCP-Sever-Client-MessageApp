@@ -11,5 +11,7 @@ This main project is TCP Server-Client messaging app. It has two sub-projects. T
 
 ## Contact Info
 Developer - W. M. Ayesh Dilshan
+
 Contact - dilshanwma@gmail.com
+
 +94778147726
